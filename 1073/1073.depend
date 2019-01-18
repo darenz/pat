@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547133912 source:c:\users\sunriz_\desktop\testcpp\1073\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<cstring>
+
