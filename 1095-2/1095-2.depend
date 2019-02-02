@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1548427026 source:c:\users\sunriz_\desktop\testcpp\1095-2\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+	<algorithm>
+	<cstdio>
+
+1548432235 source:c:\users\sunriz_\desktop\testcpp\1095-2\main2.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<map>
+	<vector>
+	<cstdlib>
+

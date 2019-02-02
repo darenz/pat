@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548054886 source:c:\users\sunriz_\desktop\testcpp\1075.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

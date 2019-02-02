@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548514413 source:c:\users\sunriz_\desktop\testcpp\1020\main.cpp
+	<iostream>
+	<deque>
+

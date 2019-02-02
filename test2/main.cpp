@@ -2,14 +2,12 @@
 
 using namespace std;
 
-bool test(int a,int b)
-{
-
-}
-
 int main()
 {
-    if(!test(1,2))
-        cout<<1<<endl;
+    cout << "Hello world!" << endl;
+    int n;
+    cin>>n;
+    cout<<n;
     return 0;
+
 }
