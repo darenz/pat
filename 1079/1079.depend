@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1548675348 source:c:\users\sunriz_\desktop\testcpp\1079\main.cpp
-	<iostream>
-	<cstdio>
-	<ctype.h>
-	<cmath>
-	<float.h>
-	<vector>
-

@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1547226545 source:c:\users\sunriz_\desktop\testcpp\1082\main.cpp
-	<iostream>
-	<string>
-	<vector>
-	<algorithm>
-	<cmath>
-
