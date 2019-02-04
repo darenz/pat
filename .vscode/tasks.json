@@ -6,7 +6,15 @@
         {
             "label": "build",
             "type": "shell",
+<<<<<<< HEAD
             "command": "g++ ${file} -o out.exe -g"
         }
+=======
+            "command": "g++",
+            "args": [
+                "-g", "${file}" ,"-o","prog"
+            ],
+       }
+>>>>>>> 8b09d0196d630607d0bed725e4395813a5beafbc
     ]
 }

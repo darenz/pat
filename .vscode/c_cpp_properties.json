@@ -1,6 +1,7 @@
 {
     "configurations": [
         {
+<<<<<<< HEAD
             "name": "MinGW",
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "C:/Program Files/MinGW/bin",
@@ -20,6 +21,17 @@
             "cStandard": "c11",
             "cppStandard": "c++17"
             
+=======
+            "name": "Linux",
+            "includePath": [
+                "/usr/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+>>>>>>> 8b09d0196d630607d0bed725e4395813a5beafbc
         }
     ],
     "version": 4
