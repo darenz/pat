@@ -1,9 +1,5 @@
 {
     "files.associations": {
-<<<<<<< HEAD
-        "cstdio": "cpp"
-    }
-=======
         "array": "cpp",
         "*.tcc": "cpp",
         "cctype": "cpp",
@@ -39,5 +35,4 @@
         "utility": "cpp"
     },
     "python.linting.pylintEnabled": true
->>>>>>> 8b09d0196d630607d0bed725e4395813a5beafbc
 }
